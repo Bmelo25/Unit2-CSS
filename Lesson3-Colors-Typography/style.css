@@ -1,0 +1,42 @@
+/* Movie Review CSS Starter File */
+/* We'll add styles here step by step! */
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&display=swap');
+/* Step 1: Colors - We'll add these together! */
+
+body{
+    background-color: #F5F5F5;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
+    padding:40px 20px;
+
+}
+
+header h1 {
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tagline{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: #6808ef;
+    margin: 0;
+}
+
+/* Step 2: Typography - Font families coming soon! */
+
+
+/* Step 3: Text styling - Sizes and spacing! */
